@@ -1,5 +1,7 @@
 ![Alt Text](smallcatdance.gif)
 
-When I grow up, I want to beat everyone's expectations, just live javascript.
+
+31/10/2024 <br>
+When I grow up, I want to beat everyone's expectations, just like javascript🥰.
 ![condition](condition.png)
 ![actual](actual.png)
