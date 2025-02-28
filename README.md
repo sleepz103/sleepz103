@@ -1,6 +1,6 @@
 <img title="banner" src="./cloud_sunset1.jpg" alt="cloud_sunset_banner">  
 
-# Hi, I'm sleepz and welcome to my profile page!
+# Hi, I'm sleepz!
 
 I'm a student at [BBB school](https://www.bbbaden.ch/) in Switzerland.
 
